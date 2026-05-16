@@ -1,0 +1,9 @@
+---ANNOUNCEMENT start---
+---METADATA begin---
+Title: Test
+Timestamp: 1778939200000
+Priority: INFO
+Tags: Test(#ff0000)
+---METADATA end---
+This is the announcement content in markdown format.
+---ANNOUNCEMENT end---
