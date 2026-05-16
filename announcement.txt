@@ -1,9 +1,9 @@
 ---ANNOUNCEMENT start---
 ---METADATA begin---
-Title: Test
+Title: Welcome
 Timestamp: 1778939200000
 Priority: INFO
-Tags: Test(#ff0000)
+Tags: Welcome(#3F51B5)
 ---METADATA end---
-This is the announcement content in markdown format.
+Welcome to Bili-Ticket-Go!!!!!
 ---ANNOUNCEMENT end---
