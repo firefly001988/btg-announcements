@@ -10,7 +10,7 @@ Welcome to Bili-Ticket-Go!!!!!
 ---ANNOUNCEMENT start---
 ---METADATA begin---
 Title: 验证码解决插件
-Timestamp: 1778939200000
+Timestamp: 1779559200000
 Priority: WARN
 Tags: Update(#ffc107)
 ---METADATA end---
