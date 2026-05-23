@@ -7,3 +7,13 @@ Tags: Welcome(#3F51B5)
 ---METADATA end---
 Welcome to Bili-Ticket-Go!!!!!
 ---ANNOUNCEMENT end---
+---ANNOUNCEMENT start---
+---METADATA begin---
+Title: 验证码解决插件
+Timestamp: 1778939200000
+Priority: WARN
+Tags: Update(#ffc107)
+---METADATA end---
+现已支持外接插件进行解决验证码
+~~不排除~~BW26有可能会加回十分~~sm的~~验证码
+---ANNOUNCEMENT end---
